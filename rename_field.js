@@ -1,0 +1,1 @@
+db.vieclams.updateMany({}, { $rename: {"id": "post_id"} })

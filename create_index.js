@@ -1,0 +1,1 @@
+db.vieclams.createIndex({"post_id" : NumberInt(1)},{"background":true,"unique":true})
